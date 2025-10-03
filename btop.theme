@@ -1,0 +1,83 @@
+# ────────────────────────────────────────────────────────────
+# Custom Theme for btop
+# Made with Omarchist
+# ────────────────────────────────────────────────────────────
+
+# Main background, empty for terminal default, need to be empty if you want transparent background
+theme[main_bg]="#0C0C0C"
+
+# Main text color
+theme[main_fg]="#d8d4b4"
+
+# Title color for boxes
+theme[title]="#525b54"
+
+# Highlight color for keyboard shortcuts
+theme[hi_fg]="#88c6a3"
+
+# Background color of selected item in processes box
+theme[selected_bg]="#d8d4b4"
+
+# Foreground color of selected item in processes box
+theme[selected_fg]="#525b54"
+
+# Color of inactive/disabled text
+theme[inactive_fg]="#525b54"
+
+# Misc colors for processes box including mini cpu graphs, details memory graph and details status text
+theme[proc_misc]="#ece4d4"
+
+# Cpu box outline color
+theme[cpu_box]="#ece4d4"
+
+# Memory/disks box outline color
+theme[mem_box]="#ece4d4"
+
+# Net up/down box outline color
+theme[net_box]="#ece4d4"
+
+# Processes box outline color
+theme[proc_box]="#ece4d4"
+
+# Box divider line and small boxes line color
+theme[div_line]="#ece4d4"
+
+# Temperature graph colors
+theme[temp_start]="#2a593f"
+theme[temp_mid]="#d8d4b4"
+theme[temp_end]="#88c6a3"
+
+# CPU graph colors
+theme[cpu_start]="#2a593f"
+theme[cpu_mid]="#d8d4b4"
+theme[cpu_end]="#dd5670"
+
+# Mem/Disk free meter
+theme[free_start]="#2a593f"
+theme[free_mid]="#d8d4b4"
+theme[free_end]="#88c6a3"
+
+# Mem/Disk cached meter
+theme[cached_start]="#2a593f"
+theme[cached_mid]="#d8d4b4"
+theme[cached_end]="#88c6a3"
+
+# Mem/Disk available meter
+theme[available_start]="#2a593f"
+theme[available_mid]="#d8d4b4"
+theme[available_end]="#88c6a3"
+
+# Mem/Disk used meter
+theme[used_start]="#2a593f"
+theme[used_mid]="#d8d4b4"
+theme[used_end]="#88c6a3"
+
+# Download graph colors
+theme[download_start]="#2a593f"
+theme[download_mid]="#d8d4b4"
+theme[download_end]="#88c6a3"
+
+# Upload graph colors
+theme[upload_start]="#2a593f"
+theme[upload_mid]="#d8d4b4"
+theme[upload_end]="#88c6a3"
