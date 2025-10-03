@@ -1,5 +1,6 @@
 # Black Money
 All about Money - hate it or love it. Theme is for https://omarchy.org/. 
+- Major color palette of US-Dollar currency and red-accent is chinese renminbi yuan color palette <br>
 - VScode not supported yet <br>
 
 # Screenshots
