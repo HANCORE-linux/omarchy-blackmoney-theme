@@ -1,5 +1,8 @@
 # Black Money
-All about Money - hate it or love it. Theme is for https://omarchy.org/. 
+In darkness there’s value — deep blacks set the stage, while subtle green-gold highlights whisper of clandestine wealth and quiet precision.
+This palette draws inspiration from sleek machinery, old-money mechanics, and the elegances of covert exchange.
+Created for those who want a workspace that feels powerful, focused, and quietly opulent.
+
 - Major color palette of US-Dollar currency and red-accent is chinese renminbi yuan color palette <br>
 
 # Screenshots
