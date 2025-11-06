@@ -7,6 +7,8 @@ Created for those who want a workspace that feels powerful, focused, and quietly
 
 # Screenshots
 <img width="2560" height="1440" alt="screenshot-2025-10-02_22-18-14" src="https://github.com/user-attachments/assets/dc9c86f1-a51f-42da-bac3-d4b3380cc4c5" />
+<img width="2560" height="1440" alt="screenshot-2025-11-06_18-22-57" src="https://github.com/user-attachments/assets/bdc1f90c-d5e2-4d4e-88ee-e7f5c075ae5b" />
+
 
 # Installation Theme
 
