@@ -24,9 +24,7 @@ cp system24-blackmoney.theme.css ~/.config/vesktop/themes/system24-blackmoney.th
 ```
 
 ## Neovim-Theme
-- Using https://github.com/bjarneo Pixel Theme which use the colors from terminal syntax <br>
-- Check https://github.com/bjarneo/pixel.nvim <br>
-- Make sure Lazyvim is update to date type :Lazy <br>
+- by aether export
 
 ## VSCode-Theme
 - Using Theme: - Money Heist
