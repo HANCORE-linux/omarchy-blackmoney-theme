@@ -4,9 +4,34 @@
  * ────────────────────────────────────────────────────────────
  */
 
-@define-color selected-text #689e80;
+@define-color selected-text #2a593f;
 @define-color text #d8d4b4;
 @define-color base #0C0C0C;
-@define-color border #2a593f;
+@define-color border #d8d4b4;
 @define-color foreground #d8d4b4;
 @define-color background #525b54;
+
+
+
+@define-color hover #689e80;
+@define-color accent #689e80;
+
+window .search-container,
+window .search {
+  background: alpha(@hover, 0.2);
+  color: @foreground;
+  border: 2px solid alpha(@border, 0.5);
+  border-radius: 12px;
+  padding: 8px 12px;
+  margin: 4px 0;
+  font-size: 14px;
+  font-weight: 500;
+}
+
+window .box-wrapper {
+    border-radius: 8px;
+    box-shadow: 0 2px 12px alpha(@selected-text, 0.5);
+    backdrop-filter: blur(10px);
+}
+
+
