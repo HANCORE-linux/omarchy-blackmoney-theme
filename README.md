@@ -29,7 +29,7 @@ cp system24-blackmoney.theme.css ~/.config/vesktop/themes/system24-blackmoney.th
 ```
 
 ## Neovim-Theme
-- by aether export
+- neovim export by [Aether](https://github.com/bjarneo/aether) by [@bjarneo](https://github.com/bjarneo)
 
 ## VSCode, GTK, Spotify etc..
 - use [imbypass](https://github.com/imbypass/omarchy-hook-theme-set-ex/tree/main) hook script for almost all other applications
