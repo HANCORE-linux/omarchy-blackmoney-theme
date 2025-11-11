@@ -6,8 +6,13 @@ Created for those who want a workspace that feels powerful, focused, and quietly
 - Major color palette of US-Dollar currency and red-accent is chinese renminbi yuan color palette <br>
 
 # Screenshots
-<img width="2560" height="1440" alt="screenshot-2025-10-02_22-18-14" src="https://github.com/user-attachments/assets/dc9c86f1-a51f-42da-bac3-d4b3380cc4c5" />
-<img width="2560" height="1440" alt="screenshot-2025-11-06_18-22-57" src="https://github.com/user-attachments/assets/bdc1f90c-d5e2-4d4e-88ee-e7f5c075ae5b" />
+<img width="2560" height="1440" alt="screenshot-2025-11-11_01-13-51" src="https://github.com/user-attachments/assets/87698124-8793-40c8-a2e5-e2dc23f9445a" />
+
+
+## Backgrounds
+![1754596847-huge_3bb5e5d4-eca3-4316-adb9-469eb624a5c1](https://github.com/user-attachments/assets/0f80d07f-9805-421f-b846-3b8d9cb466a8)
+<img width="1600" height="900" alt="1706798132_polinka-top-p-guf-graffiti-pinterest-20" src="https://github.com/user-attachments/assets/9212cbb3-84fa-4a81-ae9d-b37951b65ef2" />
+
 
 
 # Installation Theme
@@ -26,10 +31,8 @@ cp system24-blackmoney.theme.css ~/.config/vesktop/themes/system24-blackmoney.th
 ## Neovim-Theme
 - by aether export
 
-## VSCode-Theme
-- Using Theme: - Money Heist
-- Using Extension-ID: Atit.money-heist
-- If Theme is not getting installed , do it manually: Open VSCode > Click on Extensions > type: Money Heist
+## VSCode, GTK, Spotify etc..
+- use [imbypass](https://github.com/imbypass/omarchy-hook-theme-set-ex/tree/main) hook script for almost all other applications
 
 ## Waybar-Theme
 For my Waybar-Theme simply check my Link https://github.com/HANCORE-linux/Waybar-Theme-red-accents-.git
