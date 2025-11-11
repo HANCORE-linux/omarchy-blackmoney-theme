@@ -11,7 +11,7 @@ dim_foreground = "#8a8a8d"
 
 [colors.cursor]
 text = "#d8d4b4"
-cursor = "#2a593f"
+cursor = "#9F8A57"
 
 [colors.selection]
 text = "CellForeground"
