@@ -4,42 +4,42 @@
 -- ────────────────────────────────────────────────────────────
 
 return {
-    {
-        "bjarneo/aether.nvim",
-        name = "blackmoney",
-        priority = 1000,
-        opts = {
-            disable_italics = false,
-            colors = {
-                -- Base tones (monotones)
-                base00 = "#0C0C0C", -- Background (matte black)
-                base01 = "#1A1A1A", -- Status lines / subtle panels
-                base02 = "#2A593F", -- Selection background (dark jade)
-                base03 = "#4E594A", -- Comments / invisibles (faded green-gray)
-                base04 = "#525B54", -- Punctuation / guides
-                base05 = "#d8d4b4", -- Foreground / main text (pale gold)
-                base06 = "#ece4d4", -- Bright text / highlights (cream gold)
-                base07 = "#88c6a3", -- Light background accents (mint jade)
+	{
+		"bjarneo/aether.nvim",
+		name = "blackmoney",
+		priority = 1000,
+		opts = {
+			disable_italics = false,
+			colors = {
+				-- Base tones (monotones)
+				base00 = "#0C0C0C", -- Background (matte black)
+				base01 = "#1A1A1A", -- Status lines / subtle panels
+				base02 = "#2A593F", -- Selection background (dark jade)
+				base03 = "#4E594A", -- Comments / invisibles (faded green-gray)
+				base04 = "#525B54", -- Punctuation / guides
+				base05 = "#d8d4b4", -- Foreground / main text (pale gold)
+				base06 = "#ece4d4", -- Bright text / highlights (cream gold)
+				base07 = "#88c6a3", -- Light background accents (mint jade)
 
-                -- Accents (semantic highlights)
-                base08 = "#dd5670", -- Variables, errors, red-rose
-                base09 = "#d2b67b", -- Numbers, constants, warm gold
-                base0A = "#689e80", -- Classes, types, keywords (mid jade)
-                base0B = "#88c6a3", -- Strings (mint jade)
-                base0C = "#2a593f", -- Support, regex, function parameters
-                base0D = "#5fa77b", -- Functions, highlights (soft jade)
-                base0E = "#bfa56a", -- Keywords, storage, constants (antique gold)
-                base0F = "#94784c", -- Deprecated / dark gold accent
-            },
-        },
-        config = function(_, opts)
-            require("aether").setup(opts)
-            vim.cmd.colorscheme("aether")
-            require("aether.hotreload").setup()
-        end,
-    },
-    {
-        "LazyVim/LazyVim",
-        opts = { colorscheme = "aether" },
-    },
+				-- Accents (semantic highlights)
+				base08 = "#dd5670", -- Variables, errors, red-rose
+				base09 = "#d2b67b", -- Numbers, constants, warm gold
+				base0A = "#689e80", -- Classes, types, keywords (mid jade)
+				base0B = "#88c6a3", -- Strings (mint jade)
+				base0C = "#b7b186", -- Support, regex, function parameters
+				base0D = "#5fa77b", -- Functions, highlights (soft jade)
+				base0E = "#bfa56a", -- Keywords, storage, constants (antique gold)
+				base0F = "#94784c", -- Deprecated / dark gold accent
+			},
+		},
+		config = function(_, opts)
+			require("aether").setup(opts)
+			vim.cmd.colorscheme("aether")
+			require("aether.hotreload").setup()
+		end,
+	},
+	{
+		"LazyVim/LazyVim",
+		opts = { colorscheme = "aether" },
+	},
 }
