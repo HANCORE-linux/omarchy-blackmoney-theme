@@ -10,8 +10,8 @@ foreground = "#d8d4b4"
 dim_foreground = "#8a8a8d"
 
 [colors.cursor]
-text = "#d8d4b4"
-cursor = "#9F8A57"
+text = "#0C0C0C"
+cursor = "#d8d4b4"
 
 [colors.selection]
 text = "CellForeground"
@@ -23,7 +23,7 @@ red = "#dd5670"
 green = "#2a593f"
 yellow = "#525b54"
 blue = "#d8d4b4"
-magenta = "#88c6a3"
+magenta = "#689e80"
 cyan = "#88c6a3"
 white = "#ece4d4"
 
@@ -33,6 +33,6 @@ red = "#dd5670"
 green = "#2a593f"
 yellow = "#525b54"
 blue = "#d8d4b4"
-magenta = "#88c6a3"
+magenta = "#689e80"
 cyan = "#88c6a3"
 white = "#ece4d4"
