@@ -24,7 +24,7 @@ cp system24-blackmoney.theme.css ~/.config/vesktop/themes/system24-blackmoney.th
 - use [imbypass](https://github.com/imbypass/omarchy-hook-theme-set-ex/tree/main) hook script for almost all other applications
 
 ## Waybar-Theme
-For my Waybar-Theme simply check my Link https://github.com/HANCORE-linux/Waybar-Theme-red-accents-.git
+For my Waybar-Theme simply check my [Link](https://github.com/HANCORE-linux/waybar-themes)
 
 ### License
 MIT
