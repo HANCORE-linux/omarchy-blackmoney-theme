@@ -1,9 +1,9 @@
 # Black Money
-In darkness there’s value — deep blacks set the stage, while subtle green-gold highlights whisper of clandestine wealth and quiet precision.
-This palette draws inspiration from sleek machinery, old-money mechanics, and the elegances of covert exchange.
-Created for those who want a workspace that feels powerful, focused, and quietly opulent.
+### Short note on the theme:
+This theme has multiple facets, which I wanted to express through the background images — one of them being the theme of money.
+The idea was to create a certain vibe around money through different background motifs and interpretations — whether “gangster,” “mafia,” or general Illuminati-style symbolism. You can choose for yourself.
 
-- Major color palette of US-Dollar currency and red-accent is chinese renminbi yuan color palette <br>
+The color palette is inspired by the original U.S. dollar, with the red color taken from the Chinese renminbi.
 
 # Screenshots
 <img width="2560" height="1440" alt="screenshot-2025-11-11_01-13-51" src="https://github.com/user-attachments/assets/87698124-8793-40c8-a2e5-e2dc23f9445a" />
