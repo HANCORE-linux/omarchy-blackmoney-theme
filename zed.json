@@ -45,7 +45,7 @@
             "terminal.ansi.green": "#2a593f",
             "terminal.ansi.yellow": "#525b54",
             "terminal.ansi.blue": "#d8d4b4",
-            "terminal.ansi.magenta": "#88c6a3",
+            "terminal.ansi.magenta": "#689e80",
             "terminal.ansi.cyan": "#88c6a3",
             "terminal.ansi.white": "#ece4d4",
             "terminal.ansi.bright_black": "#4e594a",
@@ -53,13 +53,13 @@
             "terminal.ansi.bright_green": "#2a593f",
             "terminal.ansi.bright_yellow": "#525b54",
             "terminal.ansi.bright_blue": "#d8d4b4",
-            "terminal.ansi.bright_magenta": "#88c6a3",
+            "terminal.ansi.bright_magenta": "#689e80",
             "terminal.ansi.bright_cyan": "#88c6a3",
             "terminal.ansi.bright_white": "#ece4d4",
             "modified": "#dd5670",
             "syntax": {
               "attribute": {
-                "color": ""
+                "color": "#ece4d4"
               },
               "boolean": {
                 "color": "#2a593f"
@@ -80,7 +80,7 @@
                 "color": "#d8d4b4"
               },
               "number": {
-                "color": "#88c6a3"
+                "color": "#689e80"
               },
               "operator": {
                 "color": "#d8d4b4"
