@@ -42,6 +42,11 @@ return {
         selection_foreground = "#d8d4b4",
         selection_background = "#0C0C0C",
       },
+      on_highlights = function(hl, c)
+                -- If it's "too dark", use a lighter grey like #2a2a2a
+                hl.CursorLine = { bg = "#191919" } 
+                hl.CursorLineNr = { fg = c.orange, bold = true }
+            end,
     },
     config = function(_, opts)
       require("aether").setup(opts)
