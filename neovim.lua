@@ -5,6 +5,7 @@ return {
     name = "aether",
     priority = 1000,
     opts = {
+      transparent = false,
       colors = {
         bg = "#0C0C0C",
         dark_bg = "#0a0a0a",
@@ -42,16 +43,20 @@ return {
         selection_foreground = "#d8d4b4",
         selection_background = "#0C0C0C",
       },
-      on_highlights = function(hl, c)
+      			on_highlights = function(hl, c)
                 -- If it's "too dark", use a lighter grey like #2a2a2a
-                hl.CursorLine = { bg = "#191919" } 
+                hl.CursorLine = { bg = "#141414" } 
                 hl.CursorLineNr = { fg = c.orange, bold = true }
+                hl.LspReferenceText = { bg = c.selection, fg = c.bright_fg }
+    hl.LspReferenceRead = hl.LspReferenceText
+    hl.LspReferenceWrite = hl.LspReferenceText
             end,
     },
     config = function(_, opts)
       require("aether").setup(opts)
       vim.cmd.colorscheme("aether")
       require("aether.hotreload").setup()
+      
     end,
   },
   {
