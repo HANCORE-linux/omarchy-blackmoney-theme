@@ -12,6 +12,7 @@ omarchy-theme-install https://github.com/HANCORE-linux/omarchy-blackmoney-theme.
 ```
 # Screenshots
 <img width="2560" height="1440" alt="screenshot-2025-11-11_01-13-51" src="https://github.com/user-attachments/assets/87698124-8793-40c8-a2e5-e2dc23f9445a" />
+<img width="2560" height="1440" alt="preview" src="https://github.com/user-attachments/assets/f3a2f46f-e03d-470f-b4f1-31eb0284f45b" />
 
 
 ## Vesktop-Theme
