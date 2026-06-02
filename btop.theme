@@ -13,7 +13,7 @@ theme[main_fg]="#d8d4b4"
 theme[title]="#525b54"
 
 # Highlight color for keyboard shortcuts
-theme[hi_fg]="#88c6a3"
+theme[hi_fg]="#dd5670"
 
 # Background color of selected item in processes box
 theme[selected_bg]="#d8d4b4"
@@ -22,40 +22,40 @@ theme[selected_bg]="#d8d4b4"
 theme[selected_fg]="#525b54"
 
 # Color of inactive/disabled text
-theme[inactive_fg]="#525b54"
+theme[inactive_fg]="#4e594a"
+
+# Color of text appearing on top of graphs, i.e uptime and current network graph scaling
+theme[graph_text]="#ece4d4"
+
+# Background color of the percentage meters
+theme[meter_bg]="#181818"
 
 # Misc colors for processes box including mini cpu graphs, details memory graph and details status text
-theme[proc_misc]="#ece4d4"
+theme[proc_misc]="#dd5670"
 
-# Cpu box outline color
-theme[cpu_box]="#ece4d4"
-
-# Memory/disks box outline color
-theme[mem_box]="#ece4d4"
-
-# Net up/down box outline color
-theme[net_box]="#ece4d4"
-
-# Processes box outline color
-theme[proc_box]="#ece4d4"
+# CPU, Memory, Network, Proc box outline colors
+theme[cpu_box]="#525b54"
+theme[mem_box]="#525b54"
+theme[net_box]="#525b54"
+theme[proc_box]="#525b54"
 
 # Box divider line and small boxes line color
-theme[div_line]="#ece4d4"
+theme[div_line]="#4e594a"
 
 # Temperature graph colors
-theme[temp_start]="#2a593f"
-theme[temp_mid]="#d8d4b4"
-theme[temp_end]="#88c6a3"
+theme[temp_start]="#d8d4b4"
+theme[temp_mid]="#88c6a3"
+theme[temp_end]="#dd5670"
 
 # CPU graph colors
-theme[cpu_start]="#2a593f"
-theme[cpu_mid]="#d8d4b4"
+theme[cpu_start]="#d8d4b4"
+theme[cpu_mid]="#88c6a3"
 theme[cpu_end]="#dd5670"
 
 # Mem/Disk free meter
-theme[free_start]="#2a593f"
-theme[free_mid]="#d8d4b4"
-theme[free_end]="#88c6a3"
+theme[free_start]="#4e594a"
+theme[free_mid]="#88c6a3"
+theme[free_end]="#dd5670"
 
 # Mem/Disk cached meter
 theme[cached_start]="#2a593f"
@@ -73,11 +73,26 @@ theme[used_mid]="#d8d4b4"
 theme[used_end]="#88c6a3"
 
 # Download graph colors
-theme[download_start]="#2a593f"
-theme[download_mid]="#d8d4b4"
-theme[download_end]="#88c6a3"
+theme[download_start]="#d8d4b4"
+theme[download_mid]="#88c6a3"
+theme[download_end]="#dd5670"
 
 # Upload graph colors
-theme[upload_start]="#2a593f"
-theme[upload_mid]="#d8d4b4"
-theme[upload_end]="#88c6a3"
+theme[upload_start]="#d8d4b4"
+theme[upload_mid]="#88c6a3"
+theme[upload_end]="#dd5670"
+
+# Process box color gradient for threads, mem and cpu usage
+theme[process_start]="#689e80"
+theme[process_mid]="#88c6a3"
+theme[process_end]="#2a593f"
+
+# Graph gradient colors (High contrast, vibrant progression)
+theme[gradient_color_0]="#2a593f"
+theme[gradient_color_1]="#4e594a"
+theme[gradient_color_2]="#689e80"
+theme[gradient_color_3]="#88c6a3"
+theme[gradient_color_4]="#d8d4b4"
+theme[gradient_color_5]="#ece4d4"
+theme[gradient_color_6]="#dd5670"
+theme[gradient_color_7]="#dd5670"

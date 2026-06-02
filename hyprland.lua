@@ -19,6 +19,14 @@ hl.config({
     col = {
       border_active = activeBorderColor,
     },
+    groupbar = {
+      col = {
+        active = "rgba(0C0C0C99)",
+        inactive = "rgba(d8d4b488)",
+      },
+      text_color = "rgb(dd5670)",
+      text_color_inactive = "rgba(0C0C0Cff)",
+    },
   },
   decoration = {
     rounding = 3,
@@ -128,6 +136,13 @@ hl.window_rule({
   opacity = "1.0 override",
   no_dim = true,
   match = {
+    class = "^(vesktop|Vesktop)$",
+  },
+})
+hl.window_rule({
+  opacity = "1.0 override",
+  no_dim = true,
+  match = {
     class = "^(code|VSCode|VSCodium)$",
   },
 })
@@ -138,6 +153,3 @@ hl.window_rule({
     class = "^(chromium|Chromium|google-chrome|Brave|brave-browser)$",
   },
 })
-
--- Review required: these lines were not converted automatically.
--- line 65: unconverted top-level assignment indowrule = match:class ^(vesktop|Vesktop)$, opacity 1.0 override, no_dim on
