@@ -13,7 +13,7 @@ selection_background = "#d8d4b4"
 mode = "dark"
 
 selection = "#525b54"
-muted = "#4e594a"
+muted = "#797d66"
 
 hyprland_active_border = "rgba(2a593fee) rgba(d8d4b4ee) 45deg"
 
