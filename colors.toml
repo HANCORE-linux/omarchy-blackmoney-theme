@@ -10,6 +10,37 @@ background = "#0C0C0C"
 selection_foreground = "#0C0C0C"
 selection_background = "#d8d4b4"
 
+mode = "dark"
+
+selection = "#525b54"
+muted = "#4e594a"
+
+hyprland_active_border = "rgba(2a593fee) rgba(d8d4b4ee) 45deg"
+
+dark_background = "#0a0a0a"
+darker_background = "#080808"
+lighter_background = "#262626"
+
+dark_foreground = "#b7b186"
+light_foreground = "#cbcbc8"
+bright_foreground = "#ece4d4"
+
+red = "#dd5670"
+yellow = "#525b54"
+orange = "#d8785b"
+green = "#2a593f"
+cyan = "#88c6a3"
+blue = "#d8d4b4"
+magenta = "#689e80"
+brown = "#e3b130"
+
+bright_red = "#dd5670"
+bright_yellow = "#525b54"
+bright_green = "#2a593f"
+bright_cyan = "#88c6a3"
+bright_blue = "#d8d4b4"
+bright_magenta = "#689e80"
+
 # Normal colors (ANSI 0-7)
 color0 = "#0C0C0C"
 color1 = "#dd5670"
